@@ -2,6 +2,14 @@ package com.davealton.tipcalculator;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.widget.EditText;
+import android.widget.SeekBar;
+import android.widget.SeekBar.OnSeekBarChangeListener;
+import android.widget.TextView;
+import android.app.Activity;
 import android.view.Menu;
 
 public class MainActivity extends Activity {

@@ -4,5 +4,16 @@
     <string name="app_name">TipCalculator</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="billTotal">Bill Total</string>
+    <string name="tenTextView">10%</string>
+    <string name="fifteenTextView">15%</string>
+    <string name="twentyTextView">20%</string>
+    <string name="blank"/>
+    <string name="tipTextView">Tip</string>
+    <string name="totalTextView">Total</string>
+    <string name="customTextView">Custom</string>
+    <string name="customTipTextView">0%</string>
+    <string name="tipCustomTextView">Tip</string>
+    <string name="totalCustomTextView">Total</string>
 
 </resources>
