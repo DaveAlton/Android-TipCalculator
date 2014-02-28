@@ -43,7 +43,7 @@ public final class R {
         public static final int tip10EditText=0x7f08000b;
         public static final int tip15EditText=0x7f08000c;
         public static final int tip20EditText=0x7f08000d;
-        public static final int tipCustomEditView=0x7f080019;
+        public static final int tipCustomEditText=0x7f080019;
         public static final int tipCustomTextView=0x7f080018;
         public static final int tipTextView=0x7f08000a;
         public static final int total10EditText=0x7f080010;

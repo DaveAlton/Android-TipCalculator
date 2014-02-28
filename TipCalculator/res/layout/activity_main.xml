@@ -125,7 +125,7 @@
 		    android:text="@string/tipCustomTextView"
 		    android:textColor="#000" />
 		<EditText android:layout_width="wrap_content"
-			android:id="@+id/tipCustomEditView"
+			android:id="@+id/tipCustomEditText"
 			android:layout_height="wrap_content" android:layout_span="1"
 			android:inputType="numberDecimal" android:layout_weight="1"></EditText>
 		<TextView
